@@ -43,17 +43,7 @@ This backend application is designed to demonstrate modern backend engineering p
 
 ## 📂 Project Structure
 Farmlokal-Backend-Project/
-│
-├── controllers/
-├── routes/
-├── services/
-├── middlewares/
-├── config/
-├── utils/
-├── .env
-├── index.js
-└── package.json
-
+<img width="218" height="243" alt="{8D0A8961-3522-4BD3-81B6-23E5D7363C90}" src="https://github.com/user-attachments/assets/833e21ff-96d2-4727-aa97-6e73f511d62f" />
 
 
 ---
@@ -65,9 +55,3 @@ Farmlokal-Backend-Project/
 ```bash
 git clone https://github.com/Vish0510/Farmlokal-Backend-Project.git
 cd Farmlokal-Backend-Project
-
----
-
-
-
-
