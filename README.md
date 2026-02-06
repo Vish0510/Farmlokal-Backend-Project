@@ -72,8 +72,7 @@ src/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/shivamvermajss/Farmlokal.git
-cd Farmlokal
+git clone https://github.com/Vish0510/Farmlokal-Backend-Project
 ```
 
 ### 2. Install Dependencies
