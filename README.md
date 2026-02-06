@@ -1,19 +1,73 @@
-# FarmLokal Backend Engineering Assignment
+# 🚜 Farmlokal Backend Project
 
-A production-style Node.js + Express backend built to demonstrate system design, performance optimization, and reliability patterns using MySQL and Redis.
+Farmlokal Backend is a scalable and secure backend service built using **Node.js**, **Express**, **MySQL**, and **Redis**.  
+The project focuses on building reliable APIs with authentication, caching, pagination, rate limiting, and webhook handling.
 
-This project implements OAuth2 authentication, external API integrations, Redis caching, cursor-based pagination, and reliability techniques such as rate limiting, retries, and circuit breakers.
+---
+
+## 📌 Project Overview
+
+This backend application is designed to demonstrate modern backend engineering practices such as:
+
+- OAuth2-based authentication
+- Redis caching for performance
+- Cursor-based pagination
+- Rate limiting and retry mechanisms
+- Webhook idempotency
+- Clean API structure with separation of concerns
 
 ---
 
-# 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-* Node.js (JavaScript)
-* Express.js
-* MySQL
-* Redis
-* Docker (for Redis)
-* Auth0 (OAuth2 Client Credentials)
+- **Node.js**
+- **Express.js**
+- **MySQL**
+- **Redis**
+- **Docker** (for Redis container)
+- **OAuth2 / Auth0**
+- **REST APIs**
 
 ---
+
+## ✨ Features
+
+- 🔐 Secure OAuth2 Authentication  
+- ⚡ Redis-based caching  
+- 📄 Cursor-based pagination for large datasets  
+- 🚦 API rate limiting and retry logic  
+- 🔁 Webhook idempotency handling  
+- 🔗 External API integrations  
+
+---
+
+## 📂 Project Structure
+Farmlokal-Backend-Project/
+│
+├── controllers/
+├── routes/
+├── services/
+├── middlewares/
+├── config/
+├── utils/
+├── .env
+├── index.js
+└── package.json
+
+
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/Vish0510/Farmlokal-Backend-Project.git
+cd Farmlokal-Backend-Project
+
+---
+
+
+
 
