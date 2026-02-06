@@ -55,3 +55,9 @@ Farmlokal-Backend-Project/
 ```bash
 git clone https://github.com/Vish0510/Farmlokal-Backend-Project.git
 cd Farmlokal-Backend-Project
+
+
+2️⃣ Install Dependencies
+
+npm install
+
